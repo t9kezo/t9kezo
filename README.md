@@ -45,6 +45,18 @@ Agile / Scrum Methodologies, REST APIs, AI/LLM Testing, MERN Stack fundamentals
 
 ## Projects
 
+### QA Testing Portfolio
+
+| Project | Description | Highlights |
+| --- | --- | --- |
+| [EVRO AI — QA](https://github.com/t9kezo/evro-ai-qa) | AI-powered meeting platform | 40 bugs documented • 48 executed test cases + 22 proposed |
+| [REYA — QA](https://github.com/t9kezo/reya-qa) | Women-only ride booking platform | 109 bugs documented • 124 executed test cases + 36 proposed |
+| [Smart Dictionary — QA](https://github.com/t9kezo/smart-dictionary-qa) | Memory cards web game | 5 bugs documented • 12 executed test cases + 16 proposed |
+
+Each repo contains full **bug reports** (steps to reproduce, expected vs. actual, severity/priority) and **test case reports** merged into real products I tested.
+
+### Tested Products
+
 - **Evro AI — AI-Powered Meeting Platform**: Validated transcription accuracy, action-item generation, and manual editing; exploratory testing of navigation and chatbot flows; reported edge-case defects.
 - **REYA Ride — Women-Only Ride Booking Platform**: End-to-end manual testing of requests, matching, and payments; cross-platform testing on Android, iOS, and web; verified payment edge cases.
 - **Niyamra — HR & Employee Management Platform**: Functional testing of attendance, leave, and holiday modules; validated leave-balance business logic; cross-role testing (employee, manager, admin).

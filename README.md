@@ -26,7 +26,7 @@ I'm a Quality Assurance professional focused on shipping stable, polished produc
 | --- | --- |
 | Jira | Defect tracking & reporting |
 | Postman | REST API validation |
-| Selenium | Test automation (learning) |
+| Selenium | Test automation (Basics) |
 | Git & GitHub | Version control |
 
 ### Concepts
